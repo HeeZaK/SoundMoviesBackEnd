@@ -3,8 +3,8 @@
 Pour utiliser correctement le Back End vous devez récuperer tout les fichiers et crée un nouveau fichier ".env"
 qui contiendra le texte suivant :
 
-SPOTIFY_CLIENT_ID="787a803d00ea4ac0ae235d96f4c0776c"
-SPOTIFY_CLIENT_SECRET="911c1177c19d473bbffcda8cb253c46c"
+SPOTIFY_CLIENT_ID= <YOUR_CLIENT_ID>
+SPOTIFY_CLIENT_SECRET= <YOUR_CLIENT_SECRET>
 SPOTIFY_REDIRECT_URI="http://soundmovies.eu-4.evennode.com/logged"
 SPOTIFY_DOMAINE_REDIRECT="soundmovies.go.yo.fr"
 
